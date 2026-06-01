@@ -5,7 +5,7 @@
 > **Curso:** Tecnologia em Desenvolvimento de Software Multiplataforma  
 > **Semestre:** 6º semestre / 2026  
 > **Equipe:**
-
+>
 > - Otavio Martins - https://github.com/tavossx
 > - Gabriel Fogo - https://github.com/GabrielFogo
 > - Arthur Servidor - https://github.com/arthurservidor
@@ -36,8 +36,7 @@
 
 </details>
 
-> Esta documentação foi atualizada com base no código-fonte atual, mantendo a estrutura ABNT do material-base.  
-> **Observação importante:** as telas anexadas à documentação original utilizam a identidade visual **Mov+** e não representam integralmente a interface atual. Os arquivos de imagem citados no material original não estão presentes no repositório e precisam de revisão posterior.
+> Esta documentação foi atualizada com base no código-fonte atual, mantendo a estrutura ABNT do material-base.
 
 # 1. Introdução
 
@@ -160,10 +159,8 @@ O modelo de casos de uso atual contempla quatro perfis principais:
   - Envia ponto em atraso com justificativa
   - Consulta histórico e folha de ponto
 
-> **Nota:** a imagem abaixo pertence ao material-base e não está presente no repositório atual.
-
 <p align="center">
-  <img src="../profile/assets/casos-de-uso.png" alt="Modelo de casos de uso" width="760">
+  <img src="./assets/casos-de-uso.png" alt="Modelo de casos de uso" width="760">
 </p>
 
 # 4. Modelo do banco de dados
@@ -224,10 +221,10 @@ O diagrama foi estruturado em **entidades normalizadas**, com utilização de **
 
 # 6. Diagrama de classes
 
-A imagem abaixo corresponde ao diagrama visual apresentado na documentação original. O arquivo não está presente no repositório atual e deve ser revisado para refletir o código implementado.
+A imagem abaixo corresponde ao diagrama de classes do projeto.
 
 <p align="center">
-  <img src="../profile/assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
+  <img src="./assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
 </p>
 
 # 7. Estudo de viabilidade
@@ -284,19 +281,140 @@ O front-end utiliza os logos da marca DeltaFour (LogoHorizontal.png e LogoSolo.p
 
 ## • Wireframes / telas
 
-> **Nota:** as imagens abaixo pertencem ao material-base e não estão no repositório atual.
+Abaixo estão os prints das telas do sistema (temas Dark e Claro):
 
-<p align="center">
-  <img src="../profile/assets/loading.png" alt="Tela Loading" width="220">
-  <img src="../profile/assets/login-social.png" alt="Tela Login Social" width="220">
-  <img src="../profile/assets/login-form.png" alt="Tela de Login" width="220">
-</p>
+<details>
+  <summary><strong>Tema Dark</strong></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/tela%20de%20login.png" alt="Tela de Login" width="90%"><br>
+        <em>Tela inicial para acesso dos usuários ao sistema.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/tela%20de%20registro%20stripe.png" alt="Tela de Registro" width="90%"><br>
+        <em>Formulário de cadastro de empresa via Stripe.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/graficos%20dark.png" alt="Gráficos" width="90%"><br>
+        <em>Dashboard com gráficos e métricas da empresa.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/bater%20ponto.png" alt="Bater Ponto" width="90%"><br>
+        <em>Tela para registro de entrada e saída do colaborador.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20funcionario.png" alt="Listagem Funcionário" width="90%"><br>
+        <em>Lista de colaboradores cadastrados na empresa.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20usuario.png" alt="Criar Usuário" width="90%"><br>
+        <em>Formulário para adicionar um novo colaborador ao sistema.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/turnos%20dark.png" alt="Turnos" width="90%"><br>
+        <em>Visualização dos turnos de trabalho configurados.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20turno%20dark.png" alt="Criar Turno" width="90%"><br>
+        <em>Formulário de criação e parametrização de turno.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20folha%20de%20ponto%20dark.png" alt="Listagem Folha de Ponto" width="90%"><br>
+        <em>Lista das folhas de ponto geradas.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/detalhes%20folha%20de%20ponto%20dark.png" alt="Detalhes Folha de Ponto" width="90%"><br>
+        <em>Visualização detalhada da folha de ponto.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/ponto%20terceiros%20dark.png" alt="Ponto Terceiros" width="90%"><br>
+        <em>Funcionalidade para o RH registrar o ponto de terceiros.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/editar%20perfil%20dark.png" alt="Editar Perfil" width="90%"><br>
+        <em>Tela para edição das informações do usuário.</em>
+      </td>
+    </tr>
+  </table>
+</details>
 
-<p align="center">
-  <img src="../profile/assets/registro.png" alt="Tela de Registro" width="220">
-  <img src="../profile/assets/personalize.png" alt="Tela de Personalização" width="220">
-  <img src="../profile/assets/home.png" alt="Tela Home" width="220">
-</p>
+<details>
+  <summary><strong>Tema Claro</strong></summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/tela%20stripe.png" alt="Tela Stripe" width="90%"><br>
+        <em>Tela para gerenciamento e pagamento da assinatura.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/graficos%20claro.png" alt="Gráficos" width="90%"><br>
+        <em>Dashboard com gráficos e métricas da empresa.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/bater%20ponto%20claro.png" alt="Bater Ponto" width="90%"><br>
+        <em>Tela para registro de entrada e saída do colaborador.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20funcionario%20claro.png" alt="Listagem Funcionário" width="90%"><br>
+        <em>Lista de colaboradores cadastrados na empresa.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20funcionario%20claro.png" alt="Criar Funcionário" width="90%"><br>
+        <em>Formulário para adicionar um novo colaborador.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/turnos%20claro.png" alt="Turnos" width="90%"><br>
+        <em>Visualização dos turnos de trabalho configurados.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/criar%20turno%20claro.png" alt="Criar Turno" width="90%"><br>
+        <em>Formulário de criação e parametrização de turno.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/listagem%20folha%20de%20ponto%20claro.png" alt="Listagem Folha de Ponto" width="90%"><br>
+        <em>Lista das folhas de ponto geradas.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/detalhes%20folha%20de%20ponto%20claro.png" alt="Detalhes Folha de Ponto" width="90%"><br>
+        <em>Visualização detalhada da folha de ponto.</em>
+      </td>
+      <td align="center" width="50%">
+        <img src="./assets/ponto%20terceiros%20claro.png" alt="Ponto Terceiros" width="90%"><br>
+        <em>Funcionalidade para o RH registrar o ponto de terceiros.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/editar%20perfil%20claro.png" alt="Editar Perfil" width="90%"><br>
+        <em>Tela para edição das informações do usuário.</em>
+      </td>
+      <td align="center" width="50%">
+        <!-- Espaço vazio para manter alinhamento -->
+      </td>
+    </tr>
+  </table>
+</details>
 
 ## • Modelo de navegação
 
@@ -311,7 +429,7 @@ Pelas telas apresentadas, o fluxo de navegação visual pode ser entendido como:
 A documentação original informa o seguinte link de prototipação no Figma:
 
 **Figma:**  
-<https://www.figma.com/design/VzVoazrLPfMd1dNkN0keln/MOV-?node-id=0-1&t=1f8FgUnYCXeeP3sA-1>
+<https://www.figma.com/design/9FkQSfvBTeCdqD75rOzaSX/Untitled?node-id=0-1&t=hOwZG9kUzbQa7I6O-1>
 
 As telas exibidas na seção de design derivam do material-base e não correspondem integralmente à UI atual.
 
@@ -405,6 +523,30 @@ O ecossistema atual é composto por:
 2. Ajustar a URL da API no MauiProgram.cs (BaseAddress).
 3. Executar o projeto DeltaFour.Maui no emulador/dispositivo.
 
+# 12. Testes de Qualidade de Software
+
+Esta seção reúne prints de execução de testes e verificações de qualidade aplicadas ao projeto.
+
+## • Testes realizados
+
+- **Teste 1:** Integração de registro de ponto (mobile → API → banco).
+- **Teste 2:** Fluxo de autenticação e renovação de sessão (login, refresh, logout).
+- **Teste 3:** Geração e exportação de folha de ponto em PDF.
+
+<p align="center">
+  <img src="./assets/test1.png" alt="Teste 1 - Integração de registro de ponto" width="600">
+</p>
+
+<p align="center">
+  <img src="./assets/test2.png" alt="Teste 2 - Fluxo de autenticação" width="600">
+</p>
+
+<p align="center">
+  <img src="./assets/test3.png" alt="Teste 3 - Geração de folha de ponto (PDF)" width="600">
+</p>
+
+As imagens acima foram capturadas durante execuções de integração e testes manuais. Recomenda-se incluir os scripts de teste automatizados (unitários e de integração) no repositório e vincular pipelines CI para garantir qualidade contínua.
+
 **Observações importantes**
 
 - A API expõe a porta 8080 e o front-end usa Nginx na porta 5173.
@@ -433,12 +575,10 @@ O ecossistema atual é composto por:
 
 ## • Fluxograma
 
-> **Nota:** o fluxograma abaixo pertence ao material-base e não está presente no repositório atual.
-
-A imagem abaixo foi mantida conforme a documentação original e representa o fluxo geral de autenticação e reconhecimento facial.
+A imagem abaixo representa o fluxo geral de autenticação e reconhecimento facial.
 
 <p align="center">
-  <img src="../profile/assets/fluxograma.png" alt="Fluxograma" width="900">
+  <img src="./assets/fluxograma.png" alt="Fluxograma" width="900">
 </p>
 
 ## • Implementação com IoT no futuro
