@@ -11,8 +11,8 @@
 > - Arthur Servidor - https://github.com/arthurservidor
 > - Rafael Paschoalotti - https://github.com/Rafael7121
 
-  > **Empresa parceira:** STi3 Sistemas LTDA | CNPJ: 07.482.867/0001-70
-  > **Endereço da parceira:** Av. João Franceschi, 4070 - Jardim Alvorada, Jaú - SP, 17210-381
+> **Empresa parceira:** STi3 Sistemas LTDA | CNPJ: 07.482.867/0001-70
+> **Endereço da parceira:** Av. João Franceschi, 4070 - Jardim Alvorada, Jaú - SP, 17210-381
 
 <details>
 
@@ -163,7 +163,7 @@ O modelo de casos de uso atual contempla quatro perfis principais:
 > **Nota:** a imagem abaixo pertence ao material-base e não está presente no repositório atual.
 
 <p align="center">
-  <img src="./assets/casos-de-uso.png" alt="Modelo de casos de uso" width="760">
+  <img src="../../Ponto-IA/assets/casos-de-uso.png" alt="Modelo de casos de uso" width="760">
 </p>
 
 # 4. Modelo do banco de dados
@@ -227,7 +227,7 @@ O diagrama foi estruturado em **entidades normalizadas**, com utilização de **
 A imagem abaixo corresponde ao diagrama visual apresentado na documentação original. O arquivo não está presente no repositório atual e deve ser revisado para refletir o código implementado.
 
 <p align="center">
-  <img src="./assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
+  <img src="../../Ponto-IA/assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
 </p>
 
 # 7. Estudo de viabilidade
@@ -287,15 +287,15 @@ O front-end utiliza os logos da marca DeltaFour (LogoHorizontal.png e LogoSolo.p
 > **Nota:** as imagens abaixo pertencem ao material-base e não estão no repositório atual.
 
 <p align="center">
-  <img src="./assets/loading.png" alt="Tela Loading" width="220">
-  <img src="./assets/login-social.png" alt="Tela Login Social" width="220">
-  <img src="./assets/login-form.png" alt="Tela de Login" width="220">
+  <img src="../../Ponto-IA/assets/loading.png" alt="Tela Loading" width="220">
+  <img src="../../Ponto-IA/assets/login-social.png" alt="Tela Login Social" width="220">
+  <img src="../../Ponto-IA/assets/login-form.png" alt="Tela de Login" width="220">
 </p>
 
 <p align="center">
-  <img src="./assets/registro.png" alt="Tela de Registro" width="220">
-  <img src="./assets/personalize.png" alt="Tela de Personalização" width="220">
-  <img src="./assets/home.png" alt="Tela Home" width="220">
+  <img src="../../Ponto-IA/assets/registro.png" alt="Tela de Registro" width="220">
+  <img src="../../Ponto-IA/assets/personalize.png" alt="Tela de Personalização" width="220">
+  <img src="../../Ponto-IA/assets/home.png" alt="Tela Home" width="220">
 </p>
 
 ## • Modelo de navegação
@@ -438,7 +438,7 @@ O ecossistema atual é composto por:
 A imagem abaixo foi mantida conforme a documentação original e representa o fluxo geral de autenticação e reconhecimento facial.
 
 <p align="center">
-  <img src="./assets/fluxograma.png" alt="Fluxograma" width="900">
+  <img src="../../Ponto-IA/assets/fluxograma.png" alt="Fluxograma" width="900">
 </p>
 
 ## • Implementação com IoT no futuro
