@@ -160,7 +160,7 @@ O modelo de casos de uso atual contempla quatro perfis principais:
   - Consulta histórico e folha de ponto
 
 <p align="center">
-  <img src="./assets/casos-de-uso.png" alt="Modelo de casos de uso" width="760">
+  <img src="../assets/casos-de-uso.png" alt="Modelo de casos de uso" width="760">
 </p>
 
 # 4. Modelo do banco de dados
@@ -224,7 +224,7 @@ O diagrama foi estruturado em **entidades normalizadas**, com utilização de **
 A imagem abaixo corresponde ao diagrama de classes do projeto.
 
 <p align="center">
-  <img src="./assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
+  <img src="../assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
 </p>
 
 # 7. Estudo de viabilidade
@@ -289,61 +289,61 @@ Abaixo estão os prints das telas do sistema (temas Dark e Claro):
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/tela%20de%20login.png" alt="Tela de Login" width="90%"><br>
+        <img src="../assets/tela%20de%20login.png" alt="Tela de Login" width="90%"><br>
         <em>Tela inicial para acesso dos usuários ao sistema.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/tela%20de%20registro%20stripe.png" alt="Tela de Registro" width="90%"><br>
+        <img src="../assets/tela%20de%20registro%20stripe.png" alt="Tela de Registro" width="90%"><br>
         <em>Formulário de cadastro de empresa via Stripe.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/graficos%20dark.png" alt="Gráficos" width="90%"><br>
+        <img src="../assets/graficos%20dark.png" alt="Gráficos" width="90%"><br>
         <em>Dashboard com gráficos e métricas da empresa.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/bater%20ponto.png" alt="Bater Ponto" width="90%"><br>
+        <img src="../assets/bater%20ponto.png" alt="Bater Ponto" width="90%"><br>
         <em>Tela para registro de entrada e saída do colaborador.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/listagem%20funcionario.png" alt="Listagem Funcionário" width="90%"><br>
+        <img src="../assets/listagem%20funcionario.png" alt="Listagem Funcionário" width="90%"><br>
         <em>Lista de colaboradores cadastrados na empresa.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/criar%20usuario.png" alt="Criar Usuário" width="90%"><br>
+        <img src="../assets/criar%20usuario.png" alt="Criar Usuário" width="90%"><br>
         <em>Formulário para adicionar um novo colaborador ao sistema.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/turnos%20dark.png" alt="Turnos" width="90%"><br>
+        <img src="../assets/turnos%20dark.png" alt="Turnos" width="90%"><br>
         <em>Visualização dos turnos de trabalho configurados.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/criar%20turno%20dark.png" alt="Criar Turno" width="90%"><br>
+        <img src="../assets/criar%20turno%20dark.png" alt="Criar Turno" width="90%"><br>
         <em>Formulário de criação e parametrização de turno.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/listagem%20folha%20de%20ponto%20dark.png" alt="Listagem Folha de Ponto" width="90%"><br>
+        <img src="../assets/listagem%20folha%20de%20ponto%20dark.png" alt="Listagem Folha de Ponto" width="90%"><br>
         <em>Lista das folhas de ponto geradas.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/detalhes%20folha%20de%20ponto%20dark.png" alt="Detalhes Folha de Ponto" width="90%"><br>
+        <img src="../assets/detalhes%20folha%20de%20ponto%20dark.png" alt="Detalhes Folha de Ponto" width="90%"><br>
         <em>Visualização detalhada da folha de ponto.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/ponto%20terceiros%20dark.png" alt="Ponto Terceiros" width="90%"><br>
+        <img src="../assets/ponto%20terceiros%20dark.png" alt="Ponto Terceiros" width="90%"><br>
         <em>Funcionalidade para o RH registrar o ponto de terceiros.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/editar%20perfil%20dark.png" alt="Editar Perfil" width="90%"><br>
+        <img src="../assets/editar%20perfil%20dark.png" alt="Editar Perfil" width="90%"><br>
         <em>Tela para edição das informações do usuário.</em>
       </td>
     </tr>
@@ -356,57 +356,57 @@ Abaixo estão os prints das telas do sistema (temas Dark e Claro):
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="../assets/tela stripe.png" alt="Tela Stripe" width="90%"><br>
+        <img src=".../assets/tela stripe.png" alt="Tela Stripe" width="90%"><br>
         <em>Tela para gerenciamento e pagamento da assinatura.</em>
       </td>
       <td align="center" width="50%">
-        <img src="../assets/graficos%20claro.png" alt="Gráficos" width="90%"><br>
+        <img src=".../assets/graficos%20claro.png" alt="Gráficos" width="90%"><br>
         <em>Dashboard com gráficos e métricas da empresa.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/bater%20ponto%20claro.png" alt="Bater Ponto" width="90%"><br>
+        <img src="../assets/bater%20ponto%20claro.png" alt="Bater Ponto" width="90%"><br>
         <em>Tela para registro de entrada e saída do colaborador.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/listagem%20funcionario%20claro.png" alt="Listagem Funcionário" width="90%"><br>
+        <img src="../assets/listagem%20funcionario%20claro.png" alt="Listagem Funcionário" width="90%"><br>
         <em>Lista de colaboradores cadastrados na empresa.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/criar%20funcionario%20claro.png" alt="Criar Funcionário" width="90%"><br>
+        <img src="../assets/criar%20funcionario%20claro.png" alt="Criar Funcionário" width="90%"><br>
         <em>Formulário para adicionar um novo colaborador.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/turnos%20claro.png" alt="Turnos" width="90%"><br>
+        <img src="../assets/turnos%20claro.png" alt="Turnos" width="90%"><br>
         <em>Visualização dos turnos de trabalho configurados.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/criar%20turno%20claro.png" alt="Criar Turno" width="90%"><br>
+        <img src="../assets/criar%20turno%20claro.png" alt="Criar Turno" width="90%"><br>
         <em>Formulário de criação e parametrização de turno.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/listagem%20folha%20de%20ponto%20claro.png" alt="Listagem Folha de Ponto" width="90%"><br>
+        <img src="../assets/listagem%20folha%20de%20ponto%20claro.png" alt="Listagem Folha de Ponto" width="90%"><br>
         <em>Lista das folhas de ponto geradas.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/detalhes%20folha%20de%20ponto%20claro.png" alt="Detalhes Folha de Ponto" width="90%"><br>
+        <img src="../assets/detalhes%20folha%20de%20ponto%20claro.png" alt="Detalhes Folha de Ponto" width="90%"><br>
         <em>Visualização detalhada da folha de ponto.</em>
       </td>
       <td align="center" width="50%">
-        <img src="./assets/ponto%20terceiros%20claro.png" alt="Ponto Terceiros" width="90%"><br>
+        <img src="../assets/ponto%20terceiros%20claro.png" alt="Ponto Terceiros" width="90%"><br>
         <em>Funcionalidade para o RH registrar o ponto de terceiros.</em>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <img src="./assets/editar%20perfil%20claro.png" alt="Editar Perfil" width="90%"><br>
+        <img src="../assets/editar%20perfil%20claro.png" alt="Editar Perfil" width="90%"><br>
         <em>Tela para edição das informações do usuário.</em>
       </td>
       <td align="center" width="50%">
@@ -534,15 +534,15 @@ Esta seção reúne prints de execução de testes e verificações de qualidade
 - **Teste 3:** Geração e exportação de folha de ponto em PDF.
 
 <p align="center">
-  <img src="./assets/test1.png" alt="Teste 1 - Integração de registro de ponto" width="600">
+  <img src="../assets/test1.png" alt="Teste 1 - Integração de registro de ponto" width="600">
 </p>
 
 <p align="center">
-  <img src="./assets/test2.png" alt="Teste 2 - Fluxo de autenticação" width="600">
+  <img src="../assets/test2.png" alt="Teste 2 - Fluxo de autenticação" width="600">
 </p>
 
 <p align="center">
-  <img src="./assets/test3.png" alt="Teste 3 - Geração de folha de ponto (PDF)" width="600">
+  <img src="../assets/test3.png" alt="Teste 3 - Geração de folha de ponto (PDF)" width="600">
 </p>
 
 As imagens acima foram capturadas durante execuções de integração e testes manuais. Recomenda-se incluir os scripts de teste automatizados (unitários e de integração) no repositório e vincular pipelines CI para garantir qualidade contínua.
@@ -578,7 +578,7 @@ As imagens acima foram capturadas durante execuções de integração e testes m
 A imagem abaixo representa o fluxo geral de autenticação e reconhecimento facial.
 
 <p align="center">
-  <img src="./assets/fluxograma.png" alt="Fluxograma" width="900">
+  <img src="../assets/fluxograma.png" alt="Fluxograma" width="900">
 </p>
 
 ## • Implementação com IoT no futuro
