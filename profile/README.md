@@ -356,11 +356,11 @@ Abaixo estão os prints das telas do sistema (temas Dark e Claro):
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src=".../assets/tela stripe.png" alt="Tela Stripe" width="90%"><br>
+        <img src="../assets/tela stripe.png" alt="Tela Stripe" width="90%"><br>
         <em>Tela para gerenciamento e pagamento da assinatura.</em>
       </td>
       <td align="center" width="50%">
-        <img src=".../assets/graficos%20claro.png" alt="Gráficos" width="90%"><br>
+        <img src="../assets/graficos%20claro.png" alt="Gráficos" width="90%"><br>
         <em>Dashboard com gráficos e métricas da empresa.</em>
       </td>
     </tr>
