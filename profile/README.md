@@ -6,10 +6,11 @@
 > **Semestre:** 6º semestre / 2026  
 > **Equipe:**
 
-- Otavio Martins - https://github.com/tavossx
-- Gabriel Fogo - https://github.com/GabrielFogo
-- Arthur Servidor - https://github.com/arthurservidor
-- Rafael Paschoalotti - https://github.com/Rafael7121
+> - Otavio Martins - https://github.com/tavossx
+> - Gabriel Fogo - https://github.com/GabrielFogo
+> - Arthur Servidor - https://github.com/arthurservidor
+> - Rafael Paschoalotti - https://github.com/Rafael7121
+
   > **Empresa parceira:** STi3 Sistemas LTDA | CNPJ: 07.482.867/0001-70
   > **Endereço da parceira:** Av. João Franceschi, 4070 - Jardim Alvorada, Jaú - SP, 17210-381
 
