@@ -13,6 +13,10 @@
 
 > **Empresa parceira:** STi3 Sistemas LTDA | CNPJ: 07.482.867/0001-70
 > **Endereço da parceira:** Av. João Franceschi, 4070 - Jardim Alvorada, Jaú - SP, 17210-381
+> **Link para teste**
+> **https://frontend-1077705392725.southamerica-east1.run.app/v1/login*
+> Login ADM : admin@deltafourdemo.com - Senha: #Admin@123
+> Login Funcionario : funcionario@deltafourDemo.com - Senha: #Admin@123
 
 <details>
 
@@ -224,7 +228,7 @@ O diagrama foi estruturado em **entidades normalizadas**, com utilização de **
 A imagem abaixo corresponde ao diagrama de classes do projeto.
 
 <p align="center">
-  <img src="../assets/diagrama-classes.png" alt="Diagrama de classes" width="900">
+  <img src="../assets/Banco.jpg" alt="Diagrama de classes" width="900">
 </p>
 
 # 7. Estudo de viabilidade
@@ -546,6 +550,13 @@ Esta seção reúne prints de execução de testes e verificações de qualidade
 </p>
 
 As imagens acima foram capturadas durante execuções de integração e testes manuais. Recomenda-se incluir os scripts de teste automatizados (unitários e de integração) no repositório e vincular pipelines CI para garantir qualidade contínua.
+
+# 13. Computação em Nuvem
+- A infraestrutura foi hospedada no Google Cloud Platform. Utilizou-se o Cloud Run para hospedar as quatro APIs necessárias, em conjunto com um banco de dados MySQL. Além disso, foi configurado um job no Cloud Scheduler (cron) que executa diariamente às 2h da manhã para reprocessar e atualizar o modelo de clusterização K-Means.
+<p align="center">
+  <img src="../assets/nuvem.jpg" alt="Computação em Núvem" width="600">
+</p>
+
 
 **Observações importantes**
 
